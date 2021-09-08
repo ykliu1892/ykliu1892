@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ykliu1892
 - 👀 I’m interested in physics, machine learning, natural language processing and structural engineering
-- 🌱 I’m currently learning distributed systems and reinforcement learning;\
+- 🌱 I’m currently learning distributed systems and reinforcement learning
 - 💞️ My hobbies include soccer, hiking, eating, and watching talk shows
 - 📫 How to reach me ...
 
